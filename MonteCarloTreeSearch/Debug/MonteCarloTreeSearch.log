@@ -1,0 +1,8 @@
+﻿  BaseNode.cpp
+  SearchTreeEngine.cpp
+  Source.cpp
+  TicTacToeAction.cpp
+  TicTacToeNode.cpp
+  TicTacToeWorldState.cpp
+  Generating Code...
+  MonteCarloTreeSearch.vcxproj -> C:\Users\c516792\source\repos\MonteCarloTreeSearch\Debug\MonteCarloTreeSearch.exe
